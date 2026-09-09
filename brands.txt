@@ -1,0 +1,14 @@
+Acer
+ASUS
+Dell
+HP
+Huawei
+Lenovo
+Microsoft
+MSI
+Samsung
+Toshiba
+Sony
+Fujitsu
+LG
+Apple

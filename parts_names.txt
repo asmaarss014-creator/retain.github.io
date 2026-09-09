@@ -1,0 +1,72 @@
+Motherboard
+CPU
+Processor
+GPU
+Graphics Card
+RAM
+Memory
+DDR2 RAM
+DDR3 RAM
+DDR3L RAM
+DDR4 RAM
+DDR5 RAM
+HDD
+SSD
+SATA SSD
+mSATA SSD
+M.2 SATA SSD
+M.2 NVMe SSD
+LCD
+LED Display
+Touchscreen
+Digitizer
+Display Cable
+eDP Cable
+LVDS Cable
+Keyboard
+Backlit Keyboard
+Touchpad
+Touchpad Cable
+Battery
+CMOS Battery
+Charger
+AC Adapter
+DC Jack
+DC Jack Cable
+Cooling Fan
+Heatsink
+Heat Pipe
+Speaker
+Webcam
+Wi-Fi Card
+Bluetooth Card
+Wi-Fi Antenna
+Optical Drive
+DVD Drive
+USB Board
+Audio Board
+Power Button Board
+Fingerprint Reader
+SD Card Reader
+SATA Cable
+HDD Caddy
+Hinges
+LCD Bezel
+LCD Back Cover
+Palmrest
+Bottom Case
+Camera Cable
+Speaker Cable
+Motherboard Shield
+Motherboard Bracket
+RAM Cover
+SSD Bracket
+HDD Bracket
+Screw Set
+Thermal Pad
+Thermal Paste
+Ethernet Port
+BIOS Chip
+Charging Board
+USB-C Board
+HDMI Board
