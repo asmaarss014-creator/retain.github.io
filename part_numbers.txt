@@ -1,1 +1,217 @@
+Part: Motherboard Platform (Core i3 / i5 / i7 Generations)
+Category: Core Processing Elements
+Supported Options: Intel Core i3, Core i5, Core i7 (2nd Gen to 10th Gen Mobile)
+Common Serial/FRU: LA-9104P, board markings vary by OEM
+Condition Specs: Motherboard logic boards, tested for power-on and integrated GPU health
+Wholesale Price: 700 - 1,200 AFN
+
+Part: Central Processing Unit (CPU) (Dual-Core / Quad-Core)
+Category: Core Processing Elements
+Supported Options: Socketed PGA / BGA mobile processors
+Common Serial/FRU: SR04W, SR0N6, mobile CPU chips
+Condition Specs: Pulled from donor boards, pins inspected, thermal pads clean
+Wholesale Price: 300 - 500 AFN
+
+Part: Volatile Memory (RAM) (2GB / 4GB / 8GB / 16GB Options)
+Category: Core Processing Elements
+Supported Options: DDR3, DDR3L, DDR4 SODIMM notebook memory modules
+Common Serial/FRU: PC3L-12800S, PC4-2400T
+Condition Specs: Gold pins cleaned with eraser, fully passed MemTest86 diagnostic
+Wholesale Price: 300 - 500 AFN
+
+Part: Mechanical Storage (HDD) (320GB / 500GB / 1TB Options)
+Category: Core Processing Elements
+Supported Options: 2.5-inch SATA hard disk drives (5400RPM / 7200RPM)
+Common Serial/FRU: WD5000LPCX, ST500LM030
+Condition Specs: Checked via CrystalDiskInfo, 100% healthy sectors, no bad clicks
+Wholesale Price: 400 - 500 AFN
+
+Part: Solid State Storage (SSD) (128GB / 256GB / 512GB Options)
+Category: Core Processing Elements
+Supported Options: 2.5-inch SATA SSD, M.2 SATA, M.2 NVMe high-speed drives
+Common Serial/FRU: MZ-7LN2560, SMS-2280
+Condition Specs: Health status Checked, flash memory write endurance remaining verified
+Wholesale Price: 300 - 500 AFN
+
+Part: Graphical Processing (Low-End Dedicated GPU) (128MB Profile)
+Category: Core Processing Elements
+Supported Options: Legacy dedicated graphics chips or integrated VRAM configurations
+Common Serial/FRU: AMD Radeon Mobility, Nvidia NVS chipsets
+Condition Specs: Reflow tested, stable under diagnostic graphics benchmark tests
+Wholesale Price: 100 - 100 AFN
+
+Part: Graphical Processing (Mid-End Dedicated GPU) (256MB / 512MB / 1GB)
+Category: Core Processing Elements
+Supported Options: Dedicated motherboard graphics memory configurations
+Common Serial/FRU: Nvidia GeForce GT series, AMD Radeon HD series mobile
+Condition Specs: Passed thermal threshold checks, visual rendering output clear
+Wholesale Price: 200 - 500 AFN
+
+Part: Display Interface (LCD Cable Ribbon)
+Category: Internal Connectivity & Expansion
+Supported Options: 30-pin LVDS, 40-pin eDP touch/non-touch display ribbons
+Common Serial/FRU: DD0R61LC010, DC02001YF00
+Condition Specs: Inspected under microscope for micro-tears at the hinge bending point
+Wholesale Price: 120 - 200 AFN
+
+Part: Storage Interface (HDD Cable / Port)
+Category: Internal Connectivity & Expansion
+Supported Options: Proprietary SATA flex interconnects, caddy adapter cards
+Common Serial/FRU: NBX0001TC00, 080RK8
+Condition Specs: Flex pins undamaged, locking latch mechanisms tight and functional
+Wholesale Price: 50 - 300 AFN
+
+Part: Input Interface Ribbon (Keyboard Interconnect Flex)
+Category: Internal Connectivity & Expansion
+Supported Options: Backlight power ribbons, main key matrix interface lines
+Common Serial/FRU: OEM specific flexible print cables
+Condition Specs: Completely flat, no crinkles or cracks in the trace lines
+Wholesale Price: 100 - 300 AFN
+
+Part: Navigation Ribbon (Touchpad Flex Cable)
+Category: Internal Connectivity & Expansion
+Supported Options: Trackpad-to-motherboard data paths
+Common Serial/FRU: 593-1350, clickpad flex lines
+Condition Specs: Zero corrosion on copper trace leads, connectors lock tight
+Wholesale Price: 100 - 300 AFN
+
+Part: DC Charging Jack (Pin-Type / Type-C)
+Category: Internal Connectivity & Expansion
+Supported Options: Center-pin barrels, bullet jacks, USB Type-C charging ports
+Common Serial/FRU: PJ084, 799749-Y51
+Condition Specs: Harness wire connections solid, port entry firm, no loose connections
+Wholesale Price: 50 - 100 AFN
+
+Part: Wireless Interface (Wifi Card)
+Category: Internal Connectivity & Expansion
+Supported Options: Mini PCIe, M.2 NGFF wireless networking cards
+Common Serial/FRU: Intel Dual Band Wireless-AC 7260, 8265NGW
+Condition Specs: Signal strength checked, U.FL antenna snap terminals intact
+Wholesale Price: 100 - 300 AFN
+
+Part: Short-Range Wireless (Bluetooth Card)
+Category: Internal Connectivity & Expansion
+Supported Options: Dedicated older combo cards or isolated daughterboard receivers
+Common Serial/FRU: BCM943142HM, internal wireless secondary cards
+Condition Specs: Pairing connectivity validated, firmware addresses check out
+Wholesale Price: 50 - 150 AFN
+
+Part: Expansion Interface (USB Port Board)
+Category: Internal Connectivity & Expansion
+Supported Options: Auxiliary side IO boards, SD card reader boards
+Common Serial/FRU: LS-9101P, 455MKK32L01
+Condition Specs: Cleaned with isopropyl alcohol, ports tested with flash drive
+Wholesale Price: 50 - 150 AFN
+
+Part: System Trigger (Power Button Board)
+Category: Internal Connectivity & Expansion
+Supported Options: Tactile switch boards, indicator LED breakout lines
+Common Serial/FRU: LS-B351P, 0G072H
+Condition Specs: Click mechanism responsive, returns immediate power-on signal
+Wholesale Price: 300 - 400 AFN
+
+Part: Daughter Board or Audio Board
+Category: Internal Connectivity & Expansion
+Supported Options: Multi-jack audio output boards, sub-logic interface extensions
+Common Serial/FRU: OEM peripheral connection plate profiles
+Condition Specs: Audio port path verified, trace resistors intact
+Wholesale Price: 150 - 350 AFN
+
+Part: Thermal Management (Cooling Fan)
+Category: Internal Connectivity & Expansion
+Supported Options: 3-pin / 4-pin PWM brushless notebook cooling fans
+Common Serial/FRU: KSB06105HA, DFS531105MC0T
+Condition Specs: Cleaned of dust, bearings lubricated, spins quiet at high RPMs
+Wholesale Price: 100 - 300 AFN
+
+Part: Thermal Dissipation (Heat Sink Pipes)
+Category: Internal Connectivity & Expansion
+Supported Options: Single/dual copper vapor chamber pipes for CPU/GPU setups
+Common Serial/FRU: AT0V10020R0, internal copper pipes
+Condition Specs: Copper completely straight, vacuum sealed, no structural dents
+Wholesale Price: 50 - 200 AFN
+
+Part: Enclosure Shell (Upper Casing / Top Case)
+Category: Enclosure & Structural Shell
+Supported Options: Keyboard palmrest assemblies with or without embedded keyboards
+Common Serial/FRU: AP13B000300, palmrest casing structures
+Condition Specs: Hinge mounting screw holes intact, minimal wear on wrist areas
+Wholesale Price: 500 - 2,000 AFN
+
+Part: Enclosure Base (Bottom Case Shield)
+Category: Enclosure & Structural Shell
+Supported Options: Base panels, maintenance hatches, battery door slides
+Common Serial/FRU: AM13B000400, lower chassis panels
+Condition Specs: All rubber feet present if possible, ventilation grilles unbroken
+Wholesale Price: 500 - 2,000 AFN
+
+Part: Fasteners & Support Caps (Chassis Screw Kit)
+Category: Enclosure & Structural Shell
+Supported Options: Mixed laptop assembly screw kits (M2x3, M2x5, M2.5x5, M3x3)
+Common Serial/FRU: Standard metric wafer-head laptop thread packs
+Condition Specs: Sorted by length, threads clean, heads completely unstripped
+Wholesale Price: 200 - 1,200 AFN
+
+Part: LED Panel (14.0" / 15.6" Standard Sizes)
+Category: Display Housing Assembly
+Supported Options: Slim/Thick LED LCD screens, matte/glossy finishes
+Common Serial/FRU: LP140WH4-TLA1, B156XTN02.0
+Condition Specs: Backlight bright, zero deep scratches, zero dead pixels or lines
+Wholesale Price: 300 - 900 AFN
+
+Part: Display Enclosure (LCD Cover)
+Category: Display Housing Assembly
+Supported Options: Back cover lids, metallic/plastic housing, built-in antennas
+Common Serial/FRU: FA13B000600, top back lids
+Condition Specs: Rear surface clean, structural frame uncracked
+Wholesale Price: 500 - 1,200 AFN
+
+Part: Display Frame (LCD Bezel Border)
+Category: Display Housing Assembly
+Supported Options: Inner plastic camera borders, snap-on screen trims
+Common Serial/FRU: AP13B000100, front plastic bezels
+Condition Specs: All retaining plastic clips intact, no pry marks or warping
+Wholesale Price: 200 - 500 AFN
+
+Part: Visual Capture (Webcam / Camera Module)
+Category: Display Housing Assembly
+Supported Options: Internal USB-interface camera units, array mic modules
+Common Serial/FRU: 04G621001010, internal mic camera strips
+Condition Specs: Lens clear, video resolution and audio stream verified clean
+Wholesale Price: 200 - 400 AFN
+
+Part: LCD Iron Connectors (Hinges)
+Category: Display Housing Assembly
+Supported Options: Left and right screen support brackets, heavy steel construction
+Common Serial/FRU: SZS-L, SZS-R hinge model templates
+Condition Specs: Tension adjusted, completely smooth movement, structural threads sound
+Wholesale Price: 150 - 450 AFN
+
+Part: Input Interface (Keyboard Unit)
+Category: Primary User Interfaces
+Supported Options: US/UK layout keyboards, backlit, island-style or classic keys
+Common Serial/FRU: NSK-DV0SQ, 0KNB0-6122US00
+Condition Specs: Tested with key-switch software, all single key inputs active
+Wholesale Price: 200 - 300 AFN
+
+Part: Navigation Interface (Mouse Touchpad Plate)
+Category: Primary User Interfaces
+Supported Options: Synaptics / ALPS clickpad trackers, dual mechanical buttons
+Common Serial/FRU: TM-02100-002, pointer tracker plates
+Condition Specs: Surface coating smooth, scrolling registers perfectly across surface
+Wholesale Price: 200 - 300 AFN
+
+Part: Audio Output (R, L Speaker Kit)
+Category: Primary User Interfaces
+Supported Options: Stereo pairs, internal housing chamber speakers
+Common Serial/FRU: PK23000JV00, internal audio driver sets
+Condition Specs: Cones intact, zero distortion or sound crackling at 100% volume
+Wholesale Price: 200 - 800 AFN
+
+Part: Optical Media (CD/DVD Drive Unit)
+Category: Primary User Interfaces
+Supported Options: 9.5mm / 12.7mm SATA tray-loading DVD-RW burners
+Common Serial/FRU: GT80N, UJ8A7A
+Condition Specs: Laser lens cleaned, eject mechanism fluid, reads disks smoothly
+
 LA-A992P
